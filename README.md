@@ -480,7 +480,7 @@
 
 [Rancher](https://rancher.com/) is a complete software stack for teams adopting containers. It addresses the operational and security challenges of managing multiple Kubernetes clusters, while providing DevOps teams with integrated tools for running containerized workloads.
 
-[K3s](https://github.com/rancher/k3s) ⭐ 34,111 | 🐛 75 | 🌐 Go | 📅 2026-10-02 is a highly available, certified Kubernetes distribution designed for production workloads in unattended, resource-constrained, remote locations or inside IoT appliances.
+[K3s](https://github.com/rancher/k3s) ⭐ 34,113 | 🐛 74 | 🌐 Go | 📅 2026-10-02 is a highly available, certified Kubernetes distribution designed for production workloads in unattended, resource-constrained, remote locations or inside IoT appliances.
 
 [Rook](https://rook.io/) is an open source cloud-native storage orchestrator for Kubernetes that turns distributed storage systems into self-managing, self-scaling, self-healing storage services. It automates the tasks of a storage administrator: deployment, bootstrapping, configuration, provisioning, scaling, upgrading, migration, disaster recovery, monitoring, and resource management.
 
@@ -554,7 +554,7 @@
 
 [Priam](https://github.com/Netflix/Priam) ⭐ 1,038 | 🐛 57 | 🌐 Java | 📅 2026-09-18 is a process/tool that runs alongside Apache Cassandra to automate backup/recovery, Deployments and Centralized Configuration management.
 
-[Chaos Monkey](https://github.com/Netflix/chaosmonkey) ⭐ 17,163 | 🐛 34 | 🌐 Go | 📅 2025-01-06 is a resiliency tool  used to randomly terminates virtual machine instances and containers that run inside of your production environment. Chaos Monkey should work with any backend that [Spinnaker](http://www.spinnaker.io/) supports (AWS, Google Compute Engine, Microsoft Azure, Kubernetes, and Cloud Foundry).
+[Chaos Monkey](https://github.com/Netflix/chaosmonkey) ⭐ 17,164 | 🐛 34 | 🌐 Go | 📅 2025-01-06 is a resiliency tool  used to randomly terminates virtual machine instances and containers that run inside of your production environment. Chaos Monkey should work with any backend that [Spinnaker](http://www.spinnaker.io/) supports (AWS, Google Compute Engine, Microsoft Azure, Kubernetes, and Cloud Foundry).
 
 [Falcor](https://netflix.github.io/falcor/) is a JavaScript library for efficient data fetching. Falcor lets you represent all your remote data sources as a single domain model via a virtual JSON graph, whether in memory on the client or over the network on the server.
 
@@ -624,7 +624,7 @@
 
 [Wireshark](https://www.wireshark.org/) is a very popular network protocol analyzer that is commonly used for network troubleshooting, analysis, and communications protocol development. Learn more about the other useful [Wireshark Tools](https://wiki.wireshark.org/Tools) available.
 
-[HTTPie](https://github.com/httpie/httpie) ⭐ 38,607 | 🐛 346 | 🌐 Python | 📅 2024-12-17 is a command-line HTTP client. Its goal is to make CLI interaction with web services as human-friendly as possible. HTTPie is designed for testing, debugging, and generally interacting with APIs & HTTP servers.
+[HTTPie](https://github.com/httpie/httpie) ⭐ 38,606 | 🐛 346 | 🌐 Python | 📅 2024-12-17 is a command-line HTTP client. Its goal is to make CLI interaction with web services as human-friendly as possible. HTTPie is designed for testing, debugging, and generally interacting with APIs & HTTP servers.
 
 [HTTPStat](https://github.com/reorx/httpstat) ⭐ 6,218 | 🐛 9 | 🌐 Python | 📅 2026-04-08 is a tool that visualizes curl statistics in a simple layout.
 
@@ -963,7 +963,7 @@ It is extended by a set of privacy-specific requirements, control objectives and
 
 ## Security Tools
 
-[Checkov](https://www.checkov.io/) is a static code analysis tool for infrastructure as code (IaC) and also a software composition analysis (SCA) tool for images and open source packages. It scans cloud infrastructure provisioned using [Terraform](https://terraform.io/), [Terraform plan](https://github.com/bridgecrewio/checkov/blob/master/docs/7.Scan%20Examples/Terraform%20Plan%20Scanning.md) ⭐ 9,052 | 🐛 183 | 🌐 Python | 📅 2026-10-01, [Cloudformation](https://github.com/bridgecrewio/checkov/blob/master/docs/7.Scan%20Examples/Cloudformation.md) ⭐ 9,052 | 🐛 183 | 🌐 Python | 📅 2026-10-01, [AWS SAM](https://github.com/bridgecrewio/checkov/blob/master/docs/7.Scan%20Examples/AWS%20SAM.md) ⭐ 9,052 | 🐛 183 | 🌐 Python | 📅 2026-10-01, [Kubernetes](https://github.com/bridgecrewio/checkov/blob/master/docs/7.Scan%20Examples/Kubernetes.md) ⭐ 9,052 | 🐛 183 | 🌐 Python | 📅 2026-10-01, [Helm charts](https://github.com/bridgecrewio/checkov/blob/master/docs/7.Scan%20Examples/Helm.md) ⭐ 9,052 | 🐛 183 | 🌐 Python | 📅 2026-10-01, [Kustomize](https://github.com/bridgecrewio/checkov/blob/master/docs/7.Scan%20Examples/Kustomize.md) ⭐ 9,052 | 🐛 183 | 🌐 Python | 📅 2026-10-01, [Dockerfile](https://github.com/bridgecrewio/checkov/blob/master/docs/7.Scan%20Examples/Dockerfile.md) ⭐ 9,052 | 🐛 183 | 🌐 Python | 📅 2026-10-01, [Serverless](https://github.com/bridgecrewio/checkov/blob/master/docs/7.Scan%20Examples/Serverless%20Framework.md) ⭐ 9,052 | 🐛 183 | 🌐 Python | 📅 2026-10-01, [Bicep](https://github.com/bridgecrewio/checkov/blob/master/docs/7.Scan%20Examples/Bicep.md) ⭐ 9,052 | 🐛 183 | 🌐 Python | 📅 2026-10-01, [OpenAPI](https://github.com/bridgecrewio/checkov/blob/master/docs/7.Scan%20Examples/OpenAPI.md) ⭐ 9,052 | 🐛 183 | 🌐 Python | 📅 2026-10-01 or [ARM Templates](https://github.com/bridgecrewio/checkov/blob/master/docs/7.Scan%20Examples/Azure%20ARM%20templates.md) ⭐ 9,052 | 🐛 183 | 🌐 Python | 📅 2026-10-01 and detects security and compliance misconfigurations using graph-based scanning.
+[Checkov](https://www.checkov.io/) is a static code analysis tool for infrastructure as code (IaC) and also a software composition analysis (SCA) tool for images and open source packages. It scans cloud infrastructure provisioned using [Terraform](https://terraform.io/), [Terraform plan](https://github.com/bridgecrewio/checkov/blob/master/docs/7.Scan%20Examples/Terraform%20Plan%20Scanning.md) ⭐ 9,052 | 🐛 180 | 🌐 Python | 📅 2026-10-01, [Cloudformation](https://github.com/bridgecrewio/checkov/blob/master/docs/7.Scan%20Examples/Cloudformation.md) ⭐ 9,052 | 🐛 180 | 🌐 Python | 📅 2026-10-01, [AWS SAM](https://github.com/bridgecrewio/checkov/blob/master/docs/7.Scan%20Examples/AWS%20SAM.md) ⭐ 9,052 | 🐛 180 | 🌐 Python | 📅 2026-10-01, [Kubernetes](https://github.com/bridgecrewio/checkov/blob/master/docs/7.Scan%20Examples/Kubernetes.md) ⭐ 9,052 | 🐛 180 | 🌐 Python | 📅 2026-10-01, [Helm charts](https://github.com/bridgecrewio/checkov/blob/master/docs/7.Scan%20Examples/Helm.md) ⭐ 9,052 | 🐛 180 | 🌐 Python | 📅 2026-10-01, [Kustomize](https://github.com/bridgecrewio/checkov/blob/master/docs/7.Scan%20Examples/Kustomize.md) ⭐ 9,052 | 🐛 180 | 🌐 Python | 📅 2026-10-01, [Dockerfile](https://github.com/bridgecrewio/checkov/blob/master/docs/7.Scan%20Examples/Dockerfile.md) ⭐ 9,052 | 🐛 180 | 🌐 Python | 📅 2026-10-01, [Serverless](https://github.com/bridgecrewio/checkov/blob/master/docs/7.Scan%20Examples/Serverless%20Framework.md) ⭐ 9,052 | 🐛 180 | 🌐 Python | 📅 2026-10-01, [Bicep](https://github.com/bridgecrewio/checkov/blob/master/docs/7.Scan%20Examples/Bicep.md) ⭐ 9,052 | 🐛 180 | 🌐 Python | 📅 2026-10-01, [OpenAPI](https://github.com/bridgecrewio/checkov/blob/master/docs/7.Scan%20Examples/OpenAPI.md) ⭐ 9,052 | 🐛 180 | 🌐 Python | 📅 2026-10-01 or [ARM Templates](https://github.com/bridgecrewio/checkov/blob/master/docs/7.Scan%20Examples/Azure%20ARM%20templates.md) ⭐ 9,052 | 🐛 180 | 🌐 Python | 📅 2026-10-01 and detects security and compliance misconfigurations using graph-based scanning.
 
 [OWASP Nettacker](https://github.com/OWASP/Nettacker) ⭐ 5,633 | 🐛 255 | 🌐 Python | 📅 2026-10-02 is a project created to automate information gathering, vulnerability scanning and eventually generating a report for networks, including services, bugs, vulnerabilities, misconfigurations, and other information. This software will utilize TCP SYN, ACK, ICMP, and many other protocols in order to detect and bypass Firewall/IDS/IPS devices.
 
@@ -973,7 +973,7 @@ It is extended by a set of privacy-specific requirements, control objectives and
 
 [Dockle](https://containers.goodwith.tech/) is a Container Image Linter for Security and helping build the Best-Practice Docker Image.
 
-[Sliver](https://github.com/BishopFox/sliver) ⭐ 11,954 | 🐛 230 | 🌐 Go | 📅 2026-10-03 is an open source cross-platform adversary emulation/red team framework, it can be used by organizations of all sizes to perform security testing. Sliver's implants support C2 over Mutual TLS (mTLS), WireGuard, HTTP(S), and DNS and are dynamically compiled with per-binary asymmetric encryption keys.
+[Sliver](https://github.com/BishopFox/sliver) ⭐ 11,955 | 🐛 230 | 🌐 Go | 📅 2026-10-03 is an open source cross-platform adversary emulation/red team framework, it can be used by organizations of all sizes to perform security testing. Sliver's implants support C2 over Mutual TLS (mTLS), WireGuard, HTTP(S), and DNS and are dynamically compiled with per-binary asymmetric encryption keys.
 
 [Attack Surface Analyzer](https://github.com/microsoft/AttackSurfaceAnalyzer) ⭐ 2,969 | 🐛 72 | 🌐 C# | 📅 2026-08-01 is a [Microsoft](https://github.com/microsoft/) developed open source security tool that analyzes the attack surface of a target system and reports on potential security vulnerabilities introduced during the installation of software or system misconfiguration.
 
@@ -983,7 +983,7 @@ It is extended by a set of privacy-specific requirements, control objectives and
 
 [Bandit](https://github.com/PyCQA/bandit) ⭐ 8,290 | 🐛 260 | 🌐 Python | 📅 2026-09-21 is a tool designed to find common security issues in Python code.
 
-[Payloads All The Things](https://github.com/swisskyrepo/PayloadsAllTheThings) ⭐ 81,425 | 🐛 36 | 🌐 Python | 📅 2026-08-27 is a list of useful payloads and bypass for Web Application Security and Pentest/CTF.
+[Payloads All The Things](https://github.com/swisskyrepo/PayloadsAllTheThings) ⭐ 81,427 | 🐛 36 | 🌐 Python | 📅 2026-08-27 is a list of useful payloads and bypass for Web Application Security and Pentest/CTF.
 
 [TheHive](https://thehive-project.org/) is a scalable 3-in-1 open source and free Security Incident Response Platform designed to make life easier for SOCs, CSIRTs, CERTs and any information security practitioner dealing with security incidents that need to be investigated and acted upon swiftly. It is the perfect companion to [MISP](http://www.misp-project.org/).
 
@@ -1003,7 +1003,7 @@ It is extended by a set of privacy-specific requirements, control objectives and
 
 [Control Groups(Cgroups)](https://www.redhat.com/sysadmin/cgroups-part-one) is a Linux kernel feature that allows you to allocate resources such as CPU time, system memory, network bandwidth, or any combination of these resources for user-defined groups of tasks (processes) running on a system.
 
-[EarlyOOM](https://github.com/rfjakob/earlyoom) ⭐ 4,322 | 🐛 35 | 🌐 C | 📅 2026-09-29 is a daemon for Linux that enables users to more quickly recover and regain control over their system in low-memory situations with heavy swap usage.
+[EarlyOOM](https://github.com/rfjakob/earlyoom) ⭐ 4,323 | 🐛 36 | 🌐 C | 📅 2026-09-29 is a daemon for Linux that enables users to more quickly recover and regain control over their system in low-memory situations with heavy swap usage.
 
 [Libgcrypt](https://www.gnupg.org/related_software/libgcrypt/) is a general purpose cryptographic library originally based on code from GnuPG.
 
@@ -1031,7 +1031,7 @@ It is extended by a set of privacy-specific requirements, control objectives and
 
 [Scapy](https://scapy.net/) is a python-based interactive packet manipulation program & library.
 
-[syzkaller](https://github.com/google/syzkaller) ⭐ 6,334 | 🐛 635 | 🌐 Go | 📅 2026-10-02 is an unsupervised, coverage-guided kernel fuzzer.
+[syzkaller](https://github.com/google/syzkaller) ⭐ 6,335 | 🐛 635 | 🌐 Go | 📅 2026-10-02 is an unsupervised, coverage-guided kernel fuzzer.
 
 [SchedViz](https://github.com/google/schedviz) ⚠️ Archived is a tool for gathering and visualizing kernel scheduling traces on Linux machines.
 
@@ -1041,7 +1041,7 @@ It is extended by a set of privacy-specific requirements, control objectives and
 
 [Metasploit Project](https://www.metasploit.com/) is a computer security project that provides information about security vulnerabilities and aids in penetration testing and IDS signature development.
 
-[Wfuzz](https://github.com/xmendez/wfuzz) ⭐ 6,589 | 🐛 115 | 🌐 Python | 📅 2026-01-21 was created to facilitate the task in web applications assessments and it is based on a simple concept: it replaces any reference to the FUZZ keyword by the value of a given payload.
+[Wfuzz](https://github.com/xmendez/wfuzz) ⭐ 6,590 | 🐛 115 | 🌐 Python | 📅 2026-01-21 was created to facilitate the task in web applications assessments and it is based on a simple concept: it replaces any reference to the FUZZ keyword by the value of a given payload.
 
 [Nmap](https://nmap.org/) is a security scanner used to discover hosts and services on a computer network, thus building a "map" of the network.
 
@@ -1172,7 +1172,7 @@ It is extended by a set of privacy-specific requirements, control objectives and
 
 [Rancher](https://rancher.com/) is a complete software stack for teams adopting containers. It addresses the operational and security challenges of managing multiple Kubernetes clusters, while providing DevOps teams with integrated tools for running containerized workloads.
 
-[K3s](https://github.com/rancher/k3s) ⭐ 34,111 | 🐛 75 | 🌐 Go | 📅 2026-10-02 is a highly available, certified Kubernetes distribution designed for production workloads in unattended, resource-constrained, remote locations or inside IoT appliances.
+[K3s](https://github.com/rancher/k3s) ⭐ 34,113 | 🐛 74 | 🌐 Go | 📅 2026-10-02 is a highly available, certified Kubernetes distribution designed for production workloads in unattended, resource-constrained, remote locations or inside IoT appliances.
 
 [Helm](https://helm.sh/) is a Kubernetes Package Manager tool that makes it easier to install and manage Kubernetes applications.
 
@@ -1330,7 +1330,7 @@ It is extended by a set of privacy-specific requirements, control objectives and
 
 [Numba](https://github.com/numba/numba) ⭐ 11,169 | 🐛 1,820 | 🌐 Python | 📅 2026-10-02 is an open source, NumPy-aware optimizing compiler for Python sponsored by Anaconda, Inc. It uses the LLVM compiler project to generate machine code from Python syntax. Numba can compile a large subset of numerically-focused Python, including many NumPy functions. Additionally, Numba has support for automatic parallelization of loops, generation of GPU-accelerated code, and creation of ufuncs and C callbacks.
 
-[Chainer](https://chainer.org/) is a Python-based deep learning framework aiming at flexibility. It provides automatic differentiation APIs based on the define-by-run approach (dynamic computational graphs) as well as object-oriented high-level APIs to build and train neural networks. It also supports CUDA/cuDNN using [CuPy](https://github.com/cupy/cupy) ⭐ 12,351 | 🐛 686 | 🌐 Python | 📅 2026-10-02 for high performance training and inference.
+[Chainer](https://chainer.org/) is a Python-based deep learning framework aiming at flexibility. It provides automatic differentiation APIs based on the define-by-run approach (dynamic computational graphs) as well as object-oriented high-level APIs to build and train neural networks. It also supports CUDA/cuDNN using [CuPy](https://github.com/cupy/cupy) ⭐ 12,352 | 🐛 686 | 🌐 Python | 📅 2026-10-02 for high performance training and inference.
 
 [cuML](https://github.com/rapidsai/cuml) ⭐ 5,296 | 🐛 808 | 🌐 Python | 📅 2026-10-03 is a suite of libraries that implement machine learning algorithms and mathematical primitives functions that share compatible APIs with other RAPIDS projects. cuML enables data scientists, researchers, and software engineers to run traditional tabular ML tasks on GPUs without going into the details of CUDA programming. In most cases, cuML's Python API matches the API from scikit-learn.
 
@@ -1389,7 +1389,7 @@ It is extended by a set of privacy-specific requirements, control objectives and
 
 [node-gyp](https://github.com/nodejs/node-gyp) ⭐ 10,703 | 🐛 173 | 🌐 Python | 📅 2026-10-02 is a cross-platform command-line tool written in Node.js for compiling native addon modules for Node.js. It contains a vendored copy of the gyp-next project that was previously used by the Chromium team, extended to support the development of Node.js native addons.
 
-[nvm ](https://github.com/nvm-sh/nvm) ⭐ 95,247 | 🐛 387 | 🌐 Shell | 📅 2026-09-30 is a version manager for node.js, designed to be installed per-user, and invoked per-shell. nvm works on any POSIX-compliant shell (sh, dash, ksh, zsh, bash), in particular on these platforms: unix, macOS, and windows WSL.
+[nvm ](https://github.com/nvm-sh/nvm) ⭐ 95,250 | 🐛 389 | 🌐 Shell | 📅 2026-09-30 is a version manager for node.js, designed to be installed per-user, and invoked per-shell. nvm works on any POSIX-compliant shell (sh, dash, ksh, zsh, bash), in particular on these platforms: unix, macOS, and windows WSL.
 
 [node-docker](https://hub.docker.com/_/node/) is the official Node.js docker image, made with love by the node community.
 
@@ -1401,7 +1401,7 @@ It is extended by a set of privacy-specific requirements, control objectives and
 
 [mysqljs](https://github.com/mysqljs/mysql) ⭐ 18,608 | 🐛 176 | 🌐 JavaScript | 📅 2024-06-25 is a pure node.js JavaScript Client implementing the MySQL protocol.
 
-[axios](https://github.com/axios/axios) ⭐ 109,246 | 🐛 99 | 🌐 JavaScript | 📅 2026-10-02 is a promise based HTTP client for the browser and node.js.
+[axios](https://github.com/axios/axios) ⭐ 109,247 | 🐛 99 | 🌐 JavaScript | 📅 2026-10-02 is a promise based HTTP client for the browser and node.js.
 
 [Fastify](https://www.fastify.io/) is a fast and low overhead web framework, for Node.js.
 
@@ -1510,7 +1510,7 @@ It is extended by a set of privacy-specific requirements, control objectives and
 
 [Visual Studio Code](https://code.visualstudio.com/) is a code editor redefined and optimized for building and debugging modern web and cloud applications.
 
-[Vcpkg](https://github.com/microsoft/vcpkg) ⭐ 27,513 | 🐛 1,092 | 🌐 CMake | 📅 2026-10-03 is a C++ Library Manager for Windows, Linux, and MacOS.
+[Vcpkg](https://github.com/microsoft/vcpkg) ⭐ 27,513 | 🐛 1,089 | 🌐 CMake | 📅 2026-10-03 is a C++ Library Manager for Windows, Linux, and MacOS.
 
 [ReSharper C++](https://www.jetbrains.com/resharper-cpp/features/) is a Visual Studio Extension for C++ developers developed by JetBrains.
 
@@ -1692,7 +1692,7 @@ It is extended by a set of privacy-specific requirements, control objectives and
 
 [Google Developers Certification](https://developers.google.com/certification/)
 
-[Uber's Go Style Guide](https://github.com/uber-go/guide/blob/master/style.md) ⭐ 17,733 | 🐛 39 | 🌐 Makefile | 📅 2026-04-15
+[Uber's Go Style Guide](https://github.com/uber-go/guide/blob/master/style.md) ⭐ 17,734 | 🐛 39 | 🌐 Makefile | 📅 2026-04-15
 
 [GitLab's Go standards and style guidelines](https://docs.gitlab.com/ee/development/go_guide/)
 
@@ -1716,7 +1716,7 @@ It is extended by a set of privacy-specific requirements, control objectives and
 
 [Traefik](https://github.com/traefik/traefik) ⭐ 65,052 | 🐛 931 | 🌐 Go | 📅 2026-10-02 is a modern HTTP reverse proxy and load balancer that makes deploying microservices easy. Traefik integrates with your existing infrastructure components (Docker, Swarm mode, Kubernetes, Marathon, Consul, Etcd, Rancher, Amazon ECS, etc.) and configures itself automatically and dynamically. Pointing Traefik at your orchestrator should be the only configuration step you need.
 
-[Gitea](https://github.com/go-gitea/gitea) ⭐ 58,273 | 🐛 2,465 | 🌐 Go | 📅 2026-10-03 is Git with a cup of tea, painless self-hosted git service. Using Go, this can be done with an independent binary distribution across all platforms which Go supports, including Linux, macOS, and Windows on x86, amd64, ARM and PowerPC architectures.
+[Gitea](https://github.com/go-gitea/gitea) ⭐ 58,278 | 🐛 2,465 | 🌐 Go | 📅 2026-10-03 is Git with a cup of tea, painless self-hosted git service. Using Go, this can be done with an independent binary distribution across all platforms which Go supports, including Linux, macOS, and Windows on x86, amd64, ARM and PowerPC architectures.
 
 [OpenFaaS](https://github.com/openfaas/faas) ⭐ 26,250 | 🐛 31 | 🌐 Go | 📅 2026-07-02 is Serverless Functions Made Simple. It makes it easy for developers to deploy event-driven functions and microservices to Kubernetes without repetitive, boiler-plate coding. Package your code or an existing binary in a Docker image to get a highly scalable endpoint with auto-scaling and metrics.
 
@@ -1726,9 +1726,9 @@ It is extended by a set of privacy-specific requirements, control objectives and
 
 [NATS](https://nats.io/) is a simple, secure and performant communications system for digital systems, services and devices. NATS is part of the Cloud Native Computing Foundation (CNCF). NATS has over 30 client language implementations, and its server can run on-premise, in the cloud, at the edge, and even on a Raspberry Pi. NATS can secure and simplify design and operation of modern distributed systems.
 
-[Act](https://github.com/nektos/act) ⭐ 72,200 | 🐛 385 | 🌐 Go | 📅 2026-08-09 is a GO program that allows you to run our GitHub Actions locally.
+[Act](https://github.com/nektos/act) ⭐ 72,201 | 🐛 385 | 🌐 Go | 📅 2026-08-09 is a GO program that allows you to run our GitHub Actions locally.
 
-[Fiber](https://gofiber.io/) is an [Express](https://github.com/expressjs/express) ⭐ 69,503 | 🐛 238 | 🌐 JavaScript | 📅 2026-10-01 inspired web framework built on top of [Fasthttp](https://github.com/valyala/fasthttp) ⭐ 23,479 | 🐛 93 | 🌐 Go | 📅 2026-10-03, the fastest HTTP engine for Go. Designed to ease things up for fast development with zero memory allocation and performance in mind.
+[Fiber](https://gofiber.io/) is an [Express](https://github.com/expressjs/express) ⭐ 69,503 | 🐛 238 | 🌐 JavaScript | 📅 2026-10-01 inspired web framework built on top of [Fasthttp](https://github.com/valyala/fasthttp) ⭐ 23,479 | 🐛 85 | 🌐 Go | 📅 2026-10-03, the fastest HTTP engine for Go. Designed to ease things up for fast development with zero memory allocation and performance in mind.
 
 [Glide](https://github.com/Masterminds/glide) ⭐ 8,081 | 🐛 400 | 🌐 Go | 📅 2024-07-22 is a vendor Package Management for Golang.
 
@@ -1748,7 +1748,7 @@ It is extended by a set of privacy-specific requirements, control objectives and
 
 [GORM](https://github.com/go-gorm/gorm) ⭐ 39,974 | 🐛 542 | 🌐 Go | 📅 2026-09-14 is a fantastic ORM library for Golang, aims to be developer friendly.
 
-[Go Patterns](https://github.com/tmrts/go-patterns) ⭐ 28,259 | 🐛 65 | 🌐 Go | 📅 2024-05-14 is a curated collection of idiomatic design & application patterns for Go language.
+[Go Patterns](https://github.com/tmrts/go-patterns) ⭐ 28,260 | 🐛 65 | 🌐 Go | 📅 2024-05-14 is a curated collection of idiomatic design & application patterns for Go language.
 
 # Python Development
 
@@ -1816,7 +1816,7 @@ It is extended by a set of privacy-specific requirements, control objectives and
 
 [Pylance](https://github.com/microsoft/pylance-release) ⭐ 2,123 | 🐛 24 | 🌐 Python | 📅 2026-09-30 is an extension that works alongside Python in Visual Studio Code to provide performant language support. Under the hood, Pylance is powered by Pyright, Microsoft's static type checking tool.
 
-[Pyright](https://github.com/Microsoft/pyright) ⭐ 15,671 | 🐛 331 | 🌐 Python | 📅 2026-10-02 is a fast type checker meant for large Python source bases. It can run in a “watch” mode and performs fast incremental updates when files are modified.
+[Pyright](https://github.com/Microsoft/pyright) ⭐ 15,670 | 🐛 332 | 🌐 Python | 📅 2026-10-02 is a fast type checker meant for large Python source bases. It can run in a “watch” mode and performs fast incremental updates when files are modified.
 
 [Django](https://www.djangoproject.com/) is a high-level Python Web framework that encourages rapid development and clean, pragmatic design.
 
@@ -1828,7 +1828,7 @@ It is extended by a set of privacy-specific requirements, control objectives and
 
 [Tornado](https://www.tornadoweb.org/) is a Python web framework and asynchronous networking library. Tornado uses a non-blocking network I/O, which can scale to tens of thousands of open connections.
 
-[HTTPie](https://github.com/httpie/httpie) ⭐ 38,607 | 🐛 346 | 🌐 Python | 📅 2024-12-17 is a command line HTTP client that makes CLI interaction with web services as easy as possible. HTTPie is designed for testing, debugging, and generally interacting with APIs & HTTP servers.
+[HTTPie](https://github.com/httpie/httpie) ⭐ 38,606 | 🐛 346 | 🌐 Python | 📅 2024-12-17 is a command line HTTP client that makes CLI interaction with web services as easy as possible. HTTPie is designed for testing, debugging, and generally interacting with APIs & HTTP servers.
 
 [Scrapy](https://scrapy.org/) is a fast high-level web crawling and web scraping framework, used to crawl websites and extract structured data from their pages. It can be used for a wide range of purposes, from data mining to monitoring and automated testing.
 
@@ -1856,7 +1856,7 @@ It is extended by a set of privacy-specific requirements, control objectives and
 
 [Luigi](https://github.com/spotify/luigi) ⭐ 18,778 | 🐛 178 | 🌐 Python | 📅 2026-07-18 is a Python module that helps you build complex pipelines of batch jobs. It handles dependency resolution, workflow management, visualization etc. It also comes with Hadoop support built-in.
 
-[Locust](https://github.com/locustio/locust) ⭐ 28,195 | 🐛 8 | 🌐 Python | 📅 2026-09-26 is an easy to use, scriptable and scalable performance testing tool.
+[Locust](https://github.com/locustio/locust) ⭐ 28,195 | 🐛 10 | 🌐 Python | 📅 2026-10-03 is an easy to use, scriptable and scalable performance testing tool.
 
 [spaCy](https://github.com/explosion/spaCy) ⭐ 33,933 | 🐛 248 | 🌐 Python | 📅 2026-09-30 is a library for advanced Natural Language Processing in Python and Cython.
 
@@ -1942,7 +1942,7 @@ It is extended by a set of privacy-specific requirements, control objectives and
 
 [Definitely Typed](https://github.com/DefinitelyTyped/DefinitelyTyped) ⭐ 51,445 | 🐛 685 | 🌐 TypeScript | 📅 2026-10-02 is a repository for high quality TypeScript type definitions.
 
-[TypeORM](https://github.com/typeorm/typeorm) ⭐ 36,658 | 🐛 682 | 🌐 TypeScript | 📅 2026-10-01 is an ORM that can run in NodeJS, Browser, Cordova, PhoneGap, Ionic, React Native, NativeScript, Expo, and Electron platforms and can be used with TypeScript and JavaScript (ES5, ES6, ES7, ES8).
+[TypeORM](https://github.com/typeorm/typeorm) ⭐ 36,658 | 🐛 683 | 🌐 TypeScript | 📅 2026-10-01 is an ORM that can run in NodeJS, Browser, Cordova, PhoneGap, Ionic, React Native, NativeScript, Expo, and Electron platforms and can be used with TypeScript and JavaScript (ES5, ES6, ES7, ES8).
 
 [NativeScript](https://www.nativescript.org/) empowers you to access native APIs from JavaScript directly. The framework currently provides iOS and Android runtimes for rich mobile development and can be utilized in a number of diverse use cases.
 
@@ -2003,7 +2003,7 @@ It is extended by a set of privacy-specific requirements, control objectives and
 
 [.NET Core](https://docs.microsoft.com/en-us/dotnet/core/introduction) is a cross-platform .NET implementation for websites, servers, and console apps on Windows, Linux, and macOS.The .NET Framework supports websites, services, desktop apps, and more on Windows. Xamarin/Mono is a .NET implementation for running apps on all the major mobile operating systems.
 
-[.NET runtime](https://github.com/dotnet/runtime) ⭐ 18,303 | 🐛 8,066 | 🌐 C# | 📅 2026-10-03 is a collection of libraries and shared host (dotnet) installers for all supported platforms, as well as the sources to .NET runtime and libraries.
+[.NET runtime](https://github.com/dotnet/runtime) ⭐ 18,303 | 🐛 8,065 | 🌐 C# | 📅 2026-10-03 is a collection of libraries and shared host (dotnet) installers for all supported platforms, as well as the sources to .NET runtime and libraries.
 
 [ASP.NET Core](https://asp.net/) is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.
 
@@ -2027,7 +2027,7 @@ It is extended by a set of privacy-specific requirements, control objectives and
 
 [IdentityServer](https://identityserver.io/) is a free, open source [OpenID Connect](https://openid.net/connect/) and [OAuth 2.0](https://tools.ietf.org/html/rfc6749) framework for ASP.NET Core. IdentityServer4 incorporates all the protocol implementations and extensibility points needed to integrate token-based authentication, single-sign-on and API access control in your applications.
 
-[ILSpy](https://github.com/icsharpcode/ILSpy) ⭐ 26,194 | 🐛 171 | 🌐 C# | 📅 2026-10-02 is the open-source .NET assembly browser and decompiler.
+[ILSpy](https://github.com/icsharpcode/ILSpy) ⭐ 26,198 | 🐛 171 | 🌐 C# | 📅 2026-10-02 is the open-source .NET assembly browser and decompiler.
 
 [Hangfire](https://www.hangfire.io/) is an easy way to perform background job processing in your .NET and .NET Core applications with no Windows Service or Task Scheduler required.
 
@@ -2037,7 +2037,7 @@ It is extended by a set of privacy-specific requirements, control objectives and
 
 [Refit](https://reactiveui.github.io/refit/) is the automatic type-safe REST library for .NET Core, Xamarin and .NET.It's heavily inspired by Square's Retrofit library, Refit turns your REST API into a live interface.
 
-[MAUI](https://github.com/dotnet/maui) ⭐ 23,321 | 🐛 4,106 | 🌐 C# | 📅 2026-10-03 is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop.
+[MAUI](https://github.com/dotnet/maui) ⭐ 23,321 | 🐛 4,107 | 🌐 C# | 📅 2026-10-03 is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop.
 
 [Quasar](https://github.com/quasar/Quasar) ⚠️ Archived is a fast and light-weight remote administration tool coded in C#. The usage ranges from user support through day-to-day administrative work to employee monitoring. Providing high stability and an easy-to-use user interface, Quasar is the perfect remote administration solution for you.
 
@@ -2235,7 +2235,7 @@ It is extended by a set of privacy-specific requirements, control objectives and
 
 [VS Code Bash Debug](https://marketplace.visualstudio.com/items?itemName=rogalmic.bash-debug) is a bash debugger GUI frontend based on awesome bashdb scripts (bashdb now included in package).
 
-[VS Code Bash IDE](https://marketplace.visualstudio.com/items?itemName=mads-hartmann.bash-ide-vscode) is a Visual Studio Code extension utilizing the [bash language server](https://github.com/bash-lsp/bash-language-server/blob/master/bash-lsp) ⭐ 2,786 | 🐛 69 | 🌐 TypeScript | 📅 2026-10-02, that is based on [Tree Sitter](https://github.com/tree-sitter/tree-sitter) ⭐ 27,111 | 🐛 117 | 🌐 Rust | 📅 2026-10-02 and its [grammar for Bash](https://github.com/tree-sitter/tree-sitter-bash) ⭐ 330 | 🐛 83 | 🌐 C | 📅 2026-09-13 and supports [explainshell](https://explainshell.com/) integration.
+[VS Code Bash IDE](https://marketplace.visualstudio.com/items?itemName=mads-hartmann.bash-ide-vscode) is a Visual Studio Code extension utilizing the [bash language server](https://github.com/bash-lsp/bash-language-server/blob/master/bash-lsp) ⭐ 2,786 | 🐛 70 | 🌐 TypeScript | 📅 2026-10-02, that is based on [Tree Sitter](https://github.com/tree-sitter/tree-sitter) ⭐ 27,112 | 🐛 114 | 🌐 Rust | 📅 2026-10-03 and its [grammar for Bash](https://github.com/tree-sitter/tree-sitter-bash) ⭐ 330 | 🐛 83 | 🌐 C | 📅 2026-09-13 and supports [explainshell](https://explainshell.com/) integration.
 
 # Rust Development
 
@@ -2276,15 +2276,15 @@ It is extended by a set of privacy-specific requirements, control objectives and
 
 [VSCode-Rust](https://github.com/rust-lang/vscode-rust) ⚠️ Archived is plugin that adds language support for Rust to Visual Studio Code. Rust support is powered by a separate language server - either by the official Rust Language Server (RLS) or rust-analyzer, depending on the user's preference. If you don't have it installed, the extension will install it for you (with permission). This extension is built and maintained by the Rust IDEs and editors team with the focus on providing a stable, high quality extension that makes the best use of the respective language server.
 
-[Apache Arrow](https://github.com/apache/arrow) ⭐ 17,169 | 🐛 2,463 | 🌐 C++ | 📅 2026-10-02 is a development platform for in-memory analytics. It contains a set of technologies that enable big data systems to process and move data fast. Arrow's libraries are available for C, C++, C#, Go, Java, JavaScript, MATLAB, Python, R, Ruby, and Rust.
+[Apache Arrow](https://github.com/apache/arrow) ⭐ 17,170 | 🐛 2,463 | 🌐 C++ | 📅 2026-10-02 is a development platform for in-memory analytics. It contains a set of technologies that enable big data systems to process and move data fast. Arrow's libraries are available for C, C++, C#, Go, Java, JavaScript, MATLAB, Python, R, Ruby, and Rust.
 
-[Wasmer](https://wasmer.io/) enables super lightweight containers based on [WebAssembly](https://webassembly.org/) that can run anywhere such as the Desktop to the Cloud and IoT devices, and also embedded in [any programming language](https://github.com/wasmerio/wasmer#language-integrations) ⭐ 21,118 | 🐛 282 | 🌐 Rust | 📅 2026-10-03.
+[Wasmer](https://wasmer.io/) enables super lightweight containers based on [WebAssembly](https://webassembly.org/) that can run anywhere such as the Desktop to the Cloud and IoT devices, and also embedded in [any programming language](https://github.com/wasmerio/wasmer#language-integrations) ⭐ 21,118 | 🐛 283 | 🌐 Rust | 📅 2026-10-03.
 
 [Firecracker](https://firecracker-microvm.github.io) is an open source virtualization technology that is purpose-built for creating and managing secure, multi-tenant container and function-based services that provide serverless operational models. Firecracker runs workloads in lightweight virtual machines, called microVMs, which combine the security and isolation properties provided by hardware virtualization technology with the speed and flexibility of containers. Firecracker has also been integrated in container runtimes, for example [Kata Containers](https://github.com/kata-containers/documentation/wiki/Initial-release-of-Kata-Containers-with-Firecracker-support) ⚠️ Archived and [Weaveworks Ignite](https://github.com/weaveworks/ignite) ⚠️ Archived.
 
 [Tokio](https://github.com/tokio-rs/tokio) ⭐ 33,307 | 🐛 467 | 🌐 Rust | 📅 2026-10-02 is an event-driven, non-blocking I/O platform for writing asynchronous applications with the Rust programming language.
 
-[TiKV](https://github.com/tikv/tikv) ⭐ 16,898 | 🐛 1,842 | 🌐 Rust | 📅 2026-10-02 is an open-source distributed transactional key-value database that also provides classical key-vlue APIs, but also transactional APIs with ACID compliance.
+[TiKV](https://github.com/tikv/tikv) ⭐ 16,900 | 🐛 1,844 | 🌐 Rust | 📅 2026-10-02 is an open-source distributed transactional key-value database that also provides classical key-vlue APIs, but also transactional APIs with ACID compliance.
 
 [Sonic](https://crates.io/crates/sonic-server) is a fast, lightweight and schema-less search backend similar to Elasticsearch in some use-cases.
 
@@ -2294,13 +2294,13 @@ It is extended by a set of privacy-specific requirements, control objectives and
 
 [Clippy](https://rust-lang.github.io/rust-clippy/) is a collection of lints to catch common mistakes and improve your Rust code.
 
-[Servo](https://github.com/servo/servo) ⭐ 38,065 | 🐛 3,166 | 🌐 Rust | 📅 2026-10-03 is a prototype web browser engine written in the Rust language.
+[Servo](https://github.com/servo/servo) ⭐ 38,066 | 🐛 3,160 | 🌐 Rust | 📅 2026-10-03 is a prototype web browser engine written in the Rust language.
 
 [Vector](https://vector.dev/) is a high-performance, end-to-end (agent & aggregator) observability data platform that puts the user in control of their observability data.
 
 [RustPython](https://github.com/RustPython/RustPython) ⭐ 22,375 | 🐛 403 | 🌐 Rust | 📅 2026-10-02 is a Python Interpreter written in Rust.
 
-[Miri](https://github.com/rust-lang/miri) ⭐ 6,635 | 🐛 192 | 🌐 Rust | 📅 2026-10-02 is an interpreter for Rust's mid-level intermediate representation. It can run binaries and test suites of cargo projects and detect certain classes of undefined behavior. Miri will alsowill also tell you about memory leaks: when there is memory still allocated at the end of the execution, and that memory is not reachable from a global static, Miri will raise an error.
+[Miri](https://github.com/rust-lang/miri) ⭐ 6,636 | 🐛 192 | 🌐 Rust | 📅 2026-10-03 is an interpreter for Rust's mid-level intermediate representation. It can run binaries and test suites of cargo projects and detect certain classes of undefined behavior. Miri will alsowill also tell you about memory leaks: when there is memory still allocated at the end of the execution, and that memory is not reachable from a global static, Miri will raise an error.
 
 [Chalk](https://rust-lang.github.io/chalk/book/) is an implementation and definition of the Rust trait system using a PROLOG-like logic solver.
 
@@ -2308,7 +2308,7 @@ It is extended by a set of privacy-specific requirements, control objectives and
 
 [Simpleinfra](https://github.com/rust-lang/simpleinfra) ⭐ 178 | 🐛 70 | 🌐 HCL | 📅 2026-10-01 is rep that contains the tools and automation written by the Rust infrastructure team to manage our services. Using some of the tools in this repo require privileges only infra team members have.
 
-[Rustlings](https://github.com/rust-lang/rustlings) ⭐ 64,264 | 🐛 37 | 🌐 Rust | 📅 2026-09-29 is a small set of exercises to get you used to reading and writing Rust code.
+[Rustlings](https://github.com/rust-lang/rustlings) ⭐ 64,265 | 🐛 37 | 🌐 Rust | 📅 2026-09-29 is a small set of exercises to get you used to reading and writing Rust code.
 
 [Krustlet](https://krustlet.dev/) acts as a Kubernetes Kubelet(written in Rust) by listening on the event stream for new pods that the scheduler assigns to it based on specific Kubernetes [tolerations](https://kubernetes.io/docs/concepts/configuration/taint-and-toleration/). The project is currently experimental.
 
